@@ -46,6 +46,4 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/VBeatDead/VBeatDead/output/snake.svg" alt="Snake animation" />
-
 ###
